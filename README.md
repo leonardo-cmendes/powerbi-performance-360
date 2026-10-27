@@ -6,7 +6,7 @@ Projeto de estudo ponta a ponta em Power BI. A partir de quatro extrações brut
 
 ![Página Executiva](imagens/01-executiva.png)
 
-!\[Navegação pelas páginas principais](imagens/demo-paginas.gif)
+![Navegação pelas páginas principais](imagens/demo-paginas.gif)
 
 ## Sumário
 
@@ -228,7 +228,7 @@ SWITCH(
 * **Botão "Mais Detalhes"** na Curva ABC: fica desabilitado até a pessoa selecionar um produto e então abre a página de detalhe filtrada (drill-through).
 * **Formatação condicional** no mapa de calor (verde a partir de 100%, amarelo de 90% a 99%, vermelho abaixo de 90%) e nas barras da Curva ABC (azul para A, amarelo para B, vermelho para C).
 
-!\[Botão Mais Informações e drill-through](imagens/demo-navegacao.gif)
+![Botão Mais Informações e drill-through](imagens/demo-navegacao.gif)
 
 ## 4\. Principais leituras
 
