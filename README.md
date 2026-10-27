@@ -69,12 +69,12 @@ Modelo em estrela: as tabelas fato (vendas, funil, chamados e metas) ao redor de
 
 ```mermaid
 erDiagram
-    dCalendario ||--o{ vendas\_2anos : "data\_corrigida"
-    dCalendario ||--o{ chamados\_suporte : "data\_abertura ativa, data\_fechamento inativa"
-    dCalendario ||--o{ funil\_vendas : "data\_criacao"
-    dCalendario ||--o{ metas\_mensais : "data"
-    dRegiao ||--o{ vendas\_2anos : "regiao"
-    dRegiao ||--o{ metas\_mensais : "regiao"
+    dCalendario ||--o{ vendas_2anos : "data_corrigida"
+    dCalendario ||--o{ chamados_suporte : "data_abertura ativa, data_fechamento inativa"
+    dCalendario ||--o{ funil_vendas : "data_criacao"
+    dCalendario ||--o{ metas_mensais : "data"
+    dRegiao ||--o{ vendas_2anos : "regiao"
+    dRegiao ||--o{ metas_mensais : "regiao"
 ```
 
 !\[Modelo de dados](imagens/modelo.png)
