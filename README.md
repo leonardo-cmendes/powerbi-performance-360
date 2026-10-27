@@ -4,7 +4,7 @@ Projeto de estudo ponta a ponta em Power BI. A partir de quatro extrações brut
 
 > ⚠️ \*\*Os dados são sintéticos\*\*, gerados via Inteligência Artificial (Claude, da Anthropic) exclusivamente para fins de estudo e simulação de cenários reais. Nenhum número representa uma empresa existente.
 
-!\[Página Executiva](imagens/01-executiva.png)
+![Página Executiva](imagens/01-executiva.png)
 
 !\[Navegação pelas páginas principais](imagens/demo-paginas.gif)
 
@@ -213,13 +213,13 @@ SWITCH(
 |**Detalhamento de Resultados Gerais** (oculta)|Para onde vai o dinheiro?|Faturamento 2024 contra 2025 por mês, cascata do faturamento até o lucro líquido, faturamento por canal e mapa de calor do atingimento da meta|
 |**Detalhes do Produto** (oculta)|Como está este produto?|Faturamento, peso no total, lucro líquido, classe ABC, faturamento por região e por mês, histórico de pedidos|
 
-!\[Comercial](imagens/02-comercial.png)
+![Comercial](imagens/02-comercial.png)
 
-!\[Operacional](imagens/03-operacional.png)
+![Operacional](imagens/03-operacional.png)
 
-!\[Detalhamento](imagens/04-detalhamento.png)
+![Detalhamento](imagens/04-detalhamento.png)
 
-!\[Detalhe do produto](imagens/05-detalhe-produto.png)
+![Detalhe do produto](imagens/05-detalhe-produto.png)
 
 ### 3.5 Interatividade e navegação
 
