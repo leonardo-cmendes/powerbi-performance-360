@@ -67,17 +67,7 @@ As quatro extrações brutas foram geradas via prompt no Claude, desenhadas com 
 
 Modelo em estrela: as tabelas fato (vendas, funil, chamados e metas) ao redor de duas dimensões (calendário e região). Todos os filtros fluem das dimensões para as fatos.
 
-```mermaid
-erDiagram
-    dCalendario ||--o{ vendas_2anos : "data_corrigida"
-    dCalendario ||--o{ chamados_suporte : "data_abertura ativa, data_fechamento inativa"
-    dCalendario ||--o{ funil_vendas : "data_criacao"
-    dCalendario ||--o{ metas_mensais : "data"
-    dRegiao ||--o{ vendas_2anos : "regiao"
-    dRegiao ||--o{ metas_mensais : "regiao"
-```
-
-!\[Modelo de dados](imagens/modelo.png)
+![Modelo de dados](imagens/modelo.png)
 
 Tabelas criadas no modelo:
 
