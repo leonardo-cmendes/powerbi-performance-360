@@ -15,7 +15,6 @@ Projeto de estudo ponta a ponta em Power BI. A partir de quatro extrações brut
 5. [Desafios e aprendizados](#5-desafios-e-aprendizados)
 6. [Limitações e próximos passos](#6-limitações-e-próximos-passos)
 7. [Como abrir o projeto](#7-como-abrir-o-projeto)
-8. [Estrutura do repositório](#8-estrutura-do-repositório)
 
 \---
 
@@ -265,28 +264,7 @@ SWITCH(
 3. Em **Transformar dados → Configurações da fonte de dados**, aponte cada fonte para a pasta `dados/` do seu computador.
 4. Clique em **Atualizar**.
 
-## 8\. Estrutura do repositório
-
-```
-├── README.md
-├── dashboard.pbix
-├── dados/
-│   ├── vendas\_2anos.csv
-│   ├── funil\_vendas.csv
-│   ├── chamados\_suporte.csv
-│   └── metas\_mensais.csv
-└── imagens/
-    ├── 01-executiva.png
-    ├── 02-comercial.png
-    ├── 03-operacional.png
-    ├── 04-detalhamento.png
-    ├── 05-detalhe-produto.png
-    ├── modelo.png
-    ├── demo-paginas.gif
-    └── demo-navegacao.gif
-```
-
 \---
 
-**Autor:** Seu nome | [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)
+**Autor:** Leonardo Mendes | [LinkedIn](https://www.linkedin.com/in/leonardo-casemiro-mendes/) | [GitHub](https://github.com/leonardo-cmendes)
 
